@@ -1,0 +1,2 @@
+# ARPG Tutorial Zelda Like
+Este juego esta basado en el tutorial de [Maker Tech](https://www.youtube.com/watch?v=0mUoRdYe0s4&list=PLMQtM2GgbPEVuTgD4Ln17ombTg6EahSLr&index=1&pp=iAQB). Se va a ir actualizando a medida que se publiquen nuevos videos.
